@@ -1,0 +1,6 @@
+2400KJ2,BMW,Aveo,2019,Negro
+GT00DEF,Honda,Civic,2029,Rojo
+GT321JKL,Chevrolet,Camaro,2024,Amarillo
+GT01454JKL,BWM,Serie 4,2020,Gris
+GT654MNO,Toyota,Serie C,Civic,Rojo
+264578,TOYOT,lkm,23335,azul
